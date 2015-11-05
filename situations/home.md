@@ -7,7 +7,7 @@ start getting ready for school. Should you eat breakfast?
 [Yes, I need brain food!](deli.md)
 
 
-[No, I’m going to starve today!](starving.md)
+[No, I’m going to starve today!](starving2.md)
 
 
 
