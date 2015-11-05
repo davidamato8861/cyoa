@@ -1,4 +1,4 @@
-### Breakfast, 
+### Breakfast 
 
 You get ready for school, But should you eat breakfast? 
 

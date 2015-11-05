@@ -1,6 +1,6 @@
 ###Starving 
 YEAH! great choice! were starving today! so now,  do you …
 
-[Run to school](school.md)
+[Run to school](go-to-school.md)
 
-[Walk to school](school.md)
+[Walk to school](go-toschool.md)
